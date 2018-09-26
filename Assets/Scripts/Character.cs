@@ -5,6 +5,8 @@ public class Character : MonoBehaviour
 {
     public string displayName;
     public int health, energy;
-
+    public bool meleeDefense;
+    public bool rangeDefense;
+    
 
 }
